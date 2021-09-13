@@ -1,0 +1,33 @@
+_repo: Impromptu-or-How-to-Think-on-Your-Feet_66125
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Thompson, Isaac Grant
+    alias: Thompson, I. G. (Isaac Grant)
+    birthdate: 1840
+    deathdate: 1879
+    gutenberg_agent_id: '53646'
+    url: http://www.gutenberg.org/2009/agents/53646
+creator:
+  author:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+    wikipedia: https://en.wikipedia.org/wiki/Grenville_Kleiser
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66125'
+  lccn: '10030048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oratory'
+- !lcc 'PN'
+- GITenberg
+title: '"Impromptu"; or, How to Think on Your Feet'
+url: http://www.gutenberg.org/ebooks/66125
