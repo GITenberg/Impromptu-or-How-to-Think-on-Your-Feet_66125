@@ -8,6 +8,9 @@ contributor:
     deathdate: 1879
     gutenberg_agent_id: '53646'
     url: http://www.gutenberg.org/2009/agents/53646
+covers:
+- cover_type: archival
+  image_path: 66125-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Kleiser, Grenville
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4071
     wikipedia: https://en.wikipedia.org/wiki/Grenville_Kleiser
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66125#Impromptu-or-How-to-Think-on-Your-Feet
 gutenberg_issued: '2021-08-23'
 identifiers:
   gutenberg: '66125'
